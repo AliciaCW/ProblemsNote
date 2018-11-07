@@ -22,9 +22,9 @@ Hint: Using **dict**
 	    return count
 
 Note: 
-1. *for j in J*
+1. *for j in J* ：
 It will look through all the characters in J, and store it in to a varaible *j*.
-2. *j_dict.get(c)*
+2. *j_dict.get(c)* ：
 for c not in j_dict, it will return **None** value.
 If use j_dict[c], for c not in j_dict, it will report  **KeyError**.
 
