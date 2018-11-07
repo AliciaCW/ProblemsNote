@@ -3,6 +3,7 @@
 
 ## Solution 1:
 Consider: The length of l1 may be different with l2, and also could be 0.
+
 Hint: The position of a digit in the linkedlist = the position of this digit in the number
 
 	# Definition for singly-linked list.
