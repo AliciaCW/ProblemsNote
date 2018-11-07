@@ -63,5 +63,7 @@ Hint: The position of a digit in the linkedlist = the position of this digit in 
 
 Note:
 
-	1. *pow(10,i)*: calculate the result of the power i of number 10.
+1. *pow(10,i)* : 
+
+   calculate the result of the power i of number 10.
 
