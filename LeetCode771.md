@@ -1,6 +1,6 @@
-# LeetCode 771 Jewels and Stones
+# LeetCode 771. Jewels and Stones
 
-[https://leetcode.com/problems/jewels-and-stones/description/](See Problem)
+[See Problem](https://leetcode.com/problems/jewels-and-stones/description/)
 
 ## Solution 1:
 Hint: Using **dict** 
