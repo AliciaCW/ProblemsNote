@@ -61,5 +61,7 @@ Hint: The position of a digit in the linkedlist = the position of this digit in 
 							result = result/10
 					return result_list
 
+Note:
 
-​            
+	1. *pow(10,i)*: calculate the result of the power i of number 10.
+
