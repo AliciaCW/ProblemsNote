@@ -2,7 +2,9 @@
 
 
 
-# [See Problem][https://leetcode.com/problems/longest-substring-without-repeating-characters/description/]
+# [See Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+
 
 1. Brute Force: Find all substrings and check duplicate
 
