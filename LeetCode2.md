@@ -26,7 +26,7 @@ Hint: The position of a digit in the linkedlist = the position of this digit in 
 					# stores the sum of two numbers
 					result = 0
 					
-					# stores the number stored in l1 and l2 linkedlistt
+					# stores the number stored in l1 and l2 linkedlist
 					l1_number = 0
 					l2_number = 0
 					
