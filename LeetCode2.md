@@ -36,16 +36,16 @@ class Solution(object):
 				
 		# Do loop, find these two numbers 
 		while l1_current != None:
-				l1_number = l1_number + l1_current.val*pow(10,i)
-				l1_current = l1_current.next
-				i+=1
+			l1_number = l1_number + l1_current.val*pow(10,i)
+			l1_current = l1_current.next
+			i+=1
 						
 		# Initial position, since l1 and l2 may have different length    
 		i = 0
 		while l2_current != None:
-				l2_number = l2_number + l2_current.val*pow(10,i)
-				l2_current = l2_current.next
-				i+=1
+			l2_number = l2_number + l2_current.val*pow(10,i)
+			l2_current = l2_current.next
+			i+=1
         
 		# Sum calculation
 		result = l1_number + l2_number
@@ -58,9 +58,9 @@ class Solution(object):
 		result_list_current = result_list
 		result = result/10
 		while result != 0:
-				result_list_current.next = ListNode(result%10)
-				result_list_current = result_list_current.next
-				result = result/10
+			result_list_current.next = ListNode(result%10)
+			result_list_current = result_list_current.next
+			result = result/10
 		return result_list
 ```
 
